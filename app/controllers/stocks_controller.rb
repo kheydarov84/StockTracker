@@ -12,4 +12,8 @@ class StocksController < ApplicationController
         end
     end
     
+    def delete
+        
+    end
+    
 end
