@@ -1,4 +1,7 @@
-# Start from lecture 245
-but before read about these topics
-1 bootstrap_flash how works
-2 Javascript turbo links how it works
+# Stock Tracker app
+Created using Ruby on Rails
+* Sign up
+* Sign in
+* Add and track stocks
+
+https://stock-tracker-kamal.herokuapp.com/users/sign_in
